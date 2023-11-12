@@ -1,6 +1,4 @@
-# GoogleSecurity
-Google CyberSecurity Professional Certificate
-Google Cybersecurity Professional Certificate
+# Google Cybersecurity Professional Certificate
 
 ![Certificate of completion for Google Cybersecurity Professional Certificate for Camilla-Fartun-Jamal](./General/GoogleCertifciate.png)
 
@@ -34,4 +32,3 @@ Each directory holds the files for each of the courses in the certificate and th
   6. Sound the Alarm: Detection and Response
   7. Automate Cybersecurity Tasks with Python
   8. Put It to Work: Prepare for Cybersecurity Jobs (No files needed)
-
